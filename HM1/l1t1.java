@@ -1,16 +1,16 @@
 package HM1;
-
+// Вычислить n-ое треугольного число (сумма чисел от 1 до n), n! (произведение чисел от 1 до n)
 import java.util.Scanner;
 
 public class l1t1 {
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.print("Enter n: ");
-        int n = scan.nextInt();
+        int n = sc.nextInt();
         int nTriangle = Triangle(n);
         int nFact = Fact(n);
         System.out.printf("%d,  %d", nTriangle, nFact);
-        scan.close();
+        sc.close();
     }
 
     public static int Fact(int x) {

@@ -14,7 +14,7 @@ public class t1 {
         System.out.println(Arrays.toString(arr));
         int[] result = mergeSort(arr);
         System.out.println(Arrays.toString(result));
-        
+
     }
 
     public static int[] mergeSort(int[] sortArr) {

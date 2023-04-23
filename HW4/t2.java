@@ -43,6 +43,7 @@ public class t2 {
                 case "3":
                     System.out.println("Кто будет следующим?");
                     System.out.println(first(list));
+                    break;
 
             }
         }

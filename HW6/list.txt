@@ -1,0 +1,6 @@
+Самсунг/16/2048/Windows 9/Viva Magenta
+Филипс/8/1024/Windows 10/Red
+HP/4/512/Linux/Blue
+Самсунг/8/2048/Windows 10/Black
+Lenovo/16/2048/Windows 9/White
+Самсунг/8/512/Windows 11/White
